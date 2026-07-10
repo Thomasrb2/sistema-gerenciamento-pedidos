@@ -1,3 +1,4 @@
+package model;
 public class ItensPedido {
     private int idItem;
     private int idPedido;

@@ -1,3 +1,4 @@
+package model;
 public class Endereco{
     private int idEndereco;  
     private String rua;
